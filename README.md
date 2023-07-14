@@ -10,4 +10,4 @@ Run with:
 ```shell
 bash ./raft/run.sh xxx
 ```
-`xxx` is the numbers of running loop.
+`xxx` is the number of running loop.
